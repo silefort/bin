@@ -2,4 +2,4 @@
 My bins
 
 ## Install
-git clone git@github.com:silefort/bin.git ~/.custom_bin
+    git clone git@github.com:silefort/bin.git ~/.custom_bin
